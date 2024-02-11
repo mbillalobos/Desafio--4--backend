@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Mate",
+    "description": "Marolio",
+    "price": "$ 1500",
+    "img": "Sin Imagen",
+    "code": "abc123",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 1
+  },
+  {
+    "title": "Cafe",
+    "description": "Marolio",
+    "price": "$ 2500",
+    "img": "Sin Imagen",
+    "code": "abc124",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 2
+  },
+  {
+    "title": "Harina",
+    "description": "Marolio",
+    "price": "$ 3500",
+    "img": "Sin Imagen",
+    "code": "abc125",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 3
+  },
+  {
+    "title": "Palmitos",
+    "description": "Marolio",
+    "price": "$ 4500",
+    "img": "Sin Imagen",
+    "code": "abc126",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 4
+  },
+  {
+    "title": "Yerba",
+    "description": "Marolio",
+    "price": "$ 5500",
+    "img": "Sin Imagen",
+    "code": "abc126",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 5
+  },
+  {
+    "title": "Mermelada",
+    "description": "Marolio",
+    "price": "$ 6500",
+    "img": "Sin Imagen",
+    "code": "abc126",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 6
+  },
+  {
+    "title": "Cacao",
+    "description": "Marolio",
+    "price": "$ 7500",
+    "img": "Sin Imagen",
+    "code": "abc126",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 7
+  },
+  {
+    "title": "Picadillo",
+    "description": "Marolio",
+    "price": "$ 8500",
+    "img": "Sin Imagen",
+    "code": "abc126",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 8
+  },
+  {
+    "title": "Pate",
+    "description": "Marolio",
+    "price": "$ 9500",
+    "img": "Sin Imagen",
+    "code": "abc126",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 9
+  },
+  {
+    "title": "Caballa",
+    "description": "Marolio",
+    "price": "$ 10.500",
+    "img": "Sin Imagen",
+    "code": "abc126",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 10
+  }
+]
