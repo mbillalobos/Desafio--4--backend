@@ -34,7 +34,7 @@ const productManager = new ProductManager("./src/models/productos.json");
 const io = socket(httpServer);
 
 io.on("connection", async (socket) => {
-    console.log("Un cliente se conecto");
+    console.log("Cliente conectado");
 
     socket.emit("productos", await productManager.getProducts());
 
